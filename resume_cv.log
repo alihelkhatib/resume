@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.1.30)  4 FEB 2021 08:13
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.1.30)  4 FEB 2021 10:19
 entering extended mode
 **./resume_cv.tex
 (resume_cv.tex
@@ -1003,6 +1003,18 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 14.
 
+! Undefined control sequence.
+<argument> ...on, R, Julia, Matlab, C/C++, \LaTex 
+                                                  , SQL, HTML/CSS, *nix
+l.14 ...tlab, C/C++, \LaTex , SQL, HTML/CSS, *nix}
+                                                   % Skills
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
 Overfull \hbox (28.70247pt too wide) in alignment at lines 11--36
 [] [] 
  []
@@ -1033,10 +1045,10 @@ Package rerunfilecheck Info: File `resume_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31813 strings out of 412016
- 617933 string characters out of 2844936
- 1099864 words of memory out of 3000000
- 51016 multiletter control sequences out of 15000+200000
+ 31814 strings out of 412016
+ 617938 string characters out of 2844936
+ 1099865 words of memory out of 3000000
+ 51017 multiletter control sequences out of 15000+200000
  406090 words of font info for 99 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  127i,11n,130p,588b,437s stack positions out of 5000i,500n,10000p,200000b,50000s
