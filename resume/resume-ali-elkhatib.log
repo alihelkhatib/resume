@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.1.30)  30 APR 2021 11:44
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.1.30)  10 MAY 2021 11:39
 entering extended mode
-**./resume_cv.tex
-(resume_cv.tex
+**./resume-ali-elkhatib.tex
+(resume-ali-elkhatib.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-01-09> xparse <2020-03-03> (awesome-cv.cls
 Document Class: awesome-cv 2017/02/05 v1.6.1 Awesome Curriculum Vitae Class
@@ -847,8 +847,8 @@ Package: scrlogo 2020/09/21 v3.32 KOMA-Script package (logo)
 ))))
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 59.
- (resume_cv.aux)
-\openout1 = `resume_cv.aux'.
+ (resume-ali-elkhatib.aux)
+\openout1 = `resume-ali-elkhatib.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
@@ -964,9 +964,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 59.
 LaTeX Info: Redefining \pageref on input line 59.
 LaTeX Info: Redefining \nameref on input line 59.
- (resume_cv.out) (resume_cv.out)
+ (resume-ali-elkhatib.out) (resume-ali-elkhatib.out)
 \@outlinefile=\write6
-\openout6 = `resume_cv.out'.
+\openout6 = `resume-ali-elkhatib.out'.
 
 \headertextwidth=\skip82
 \headerphotowidth=\skip83
@@ -1042,17 +1042,18 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 28.
 ) (cv-sections/education.tex) [1
 
-] (resume_cv.aux)
-Package rerunfilecheck Info: File `resume_cv.out' has not changed.
+]
+(resume-ali-elkhatib.aux)
+Package rerunfilecheck Info: File `resume-ali-elkhatib.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  31837 strings out of 412016
- 618896 string characters out of 2844936
- 1100866 words of memory out of 3000000
+ 619056 string characters out of 2844936
+ 1100896 words of memory out of 3000000
  51028 multiletter control sequences out of 15000+200000
  407396 words of font info for 111 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 127i,12n,130p,588b,437s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 127i,12n,130p,598b,437s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on resume_cv.pdf (1 page).
+Output written on resume-ali-elkhatib.pdf (1 page).
