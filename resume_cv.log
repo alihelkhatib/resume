@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.1.30)  13 APR 2021 12:51
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.1.30)  30 APR 2021 11:44
 entering extended mode
 **./resume_cv.tex
 (resume_cv.tex
@@ -1003,21 +1003,21 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 14.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.00096pt on input line 14.
+(Font)              scaled to size 9.00096pt on input line 19.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 14.
+(Font)              scaled to size 6.00064pt on input line 19.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 14.
+(Font)              scaled to size 5.00053pt on input line 19.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 14.
+(Font)              scaled to size 8.99904pt on input line 19.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 14.
+(Font)              scaled to size 5.99936pt on input line 19.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 14.
+(Font)              scaled to size 4.99947pt on input line 19.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 14.
+(Font)              scaled to size 6.0pt on input line 19.
 
-Overfull \hbox (28.70247pt too wide) in alignment at lines 11--36
+Overfull \hbox (53.47247pt too wide) in alignment at lines 11--41
 [] [] 
  []
 
@@ -1049,7 +1049,7 @@ Package rerunfilecheck Info: File `resume_cv.out' has not changed.
 Here is how much of TeX's memory you used:
  31837 strings out of 412016
  618896 string characters out of 2844936
- 1099865 words of memory out of 3000000
+ 1100866 words of memory out of 3000000
  51028 multiletter control sequences out of 15000+200000
  407396 words of font info for 111 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
